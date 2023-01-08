@@ -1,0 +1,76 @@
+10
+1
+001
+Nguyễn Văn Nam
+24
+namnv@sci.hus.edu.vn
+2.7
+4
+1
+002
+Nguyễn Văn Hoàng
+25
+hoangnv@sosci.hus.edu.vn
+3.3
+4
+1
+003
+Đỗ Huyền Anh
+26
+anhdh@sci.hus.edu.vn
+3.6
+6
+0
+004
+Nguyễn Thị Thu Mai
+26
+mntt@sosci.hus.edu.vn
+3.5
+4
+1
+005
+Hoàng Thanh Tuấn
+27
+tuanht@sci.hus.edu.vn
+3.2
+2
+0
+006
+Nguyễn Việt Quân
+28
+quannv@sosci.hus.edu.vn
+2.4
+2
+0
+007
+Hoàng Thi Yến
+23
+yenht@sci.hus.edu.vn
+3.1
+1
+1
+008
+Nguyễn Văn Nhân
+24
+nhannv@sci.hus.edu.vn
+3.5
+5
+1
+009
+Nguyễn Văn Huân
+22
+huannv@sci.hus.edu.vn
+3.4
+4
+0
+010
+Hoàng Thu Dương
+28
+duonght@sosci.hus.edu.vn
+3.7
+5
+
+
+
+
+

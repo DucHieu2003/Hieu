@@ -1,0 +1,29 @@
+C01 | Vương Quốc Cường | A | Nam | 1990 | 1
+C02 | Phạm Thúy Nga | A| Nu | 1980 | 1
+C03 | Mẫn Thị Nhàn | A | Nu | 1982 | 0
+C04 | Vũ Thanh Hương | C | Nu | 1983 | 0
+C05 | Phạm Hoàng Minh | C | Nam | 1984 | 1
+C06 | Phạm Ngọc Thành Công | B | Nam | 1985 | 1
+C07 | Hoàng Bích Diệp | A | Nu | 1986 | 1
+C08 | Nguyễn Phương Khanh | C | Nu | 1985 | 0
+C09 | Nguyễn Thị Ninh | B | Nu | 1986 | 1
+C010 | Chu Thị Ngát | C | Nu | 1985 | 0
+C011 | Cao Thị Hải Quyên | A | Nu | 1990 | 1
+C012 | Phạm Thị Huyền Trang | A| Nu | 1980 | 1
+C013 | Bùi Hoàng Anh | A | Nu | 1982 | 0
+C014 | Trần Xuân Hảo | C | Nam | 1983 | 0
+C015 | Hoàng Thị Mai Hương | C | Nu | 1984 | 1
+C016 | Nguyễn Thị Là | B | Nu | 1985 | 1
+C017 | Phạm Thị Ngà | A | Nu | 1986 | 1
+C018 | Nguyễn Thành Tú | C | Nam | 1985 | 0
+C019 | Phan Việt Huy | B | Nam | 1986 | 1
+C020 | Nguyễn Tiến Linh | C | Nam | 1985 | 0
+C021 | Ngô Quang Minh | A | Nam | 1990 | 1
+C022 | Nguyễn Thị Kim Ngân | A| Nu | 1980 | 1
+C023 | Phạm Thị Thu Thảo | A | Nu | 1982 | 0
+C024 | Nguyễn Trung Thắng | C | Nam | 1983 | 0
+C025 | Nguyễn Hữu Đoài | C | Nam | 1984 | 1
+C026 | Nguyễn Thế Bảo Khánh | B | Nam | 1985 | 1
+C027 | Nguyễn Thành Công | A | Nam | 1986 | 1
+C028 | Nguyễn Bảo Ngọc | C | Nam | 1985 | 0
+C029 | Tạ Thị Trang | B | Nu | 1986 | 1
